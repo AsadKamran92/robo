@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users" : [
+  "users": [
     {
     "id": 1,
     "name": "Leanne Graham",
@@ -32,7 +32,8 @@
       "bs": "harness real-time e-markets"
     }
   }
-    ]
+  ],
+  
   "profile": {
     "name": "typicode"
   }
