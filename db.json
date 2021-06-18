@@ -1,9 +1,25 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    {"id": 1, "name": "robot", "username": "#111", "email": "usama@gmail.com"},
+    {"id": 2, "name": "robot", "username": "#222", "email": "khan@gmail.com"},
+    {"id": 3, "name": "robot", "username": "#333", "email": "khan@gmail.com"},
+    {"id": 4, "name": "robot", "username": "#444", "email": "khan@gmail.com"},
+    {"id": 5, "name": "robot", "username": "#555", "email": "khan@gmail.com"},
+    {"id": 6, "name": "robot", "username": "#666", "email": "khan@gmail.com"},
+    {"id": 7, "name": "robot", "username": "#777", "email": "khan@gmail.com"},
+    {"id": 8, "name": "robot", "username": "#888", "email": "khan@gmail.com"},
+    {"id": 9, "name": "robot", "username": "#999", "email": "khan@gmail.com"},
+    {"id": 10, "name": "robot", "username": "#112", "email": "khan@gmail.com"},
+    {"id": 11, "name": "robot", "username": "#223", "email": "khan@gmail.com"},
+    {"id": 12, "name": "robot", "username": "#334", "email": "khan@gmail.com"},
+    {"id": 13, "name": "robot", "username": "#445", "email": "khan@gmail.com"},
+    {"id": 14, "name": "robot", "username": "#556", "email": "khan@gmail.com"},
+    {"id": 15, "name": "robot", "username": "#667", "email": "khan@gmail.com"},
+    {"id": 16, "name": "robot", "username": "#889", "email": "khan@gmail.com"},
+    {"id": 17, "name": "robot", "username": "#990", "email": "khan@gmail.com"},
+    {"id": 18, "name": "robot", "username": "#113", "email": "khan@gmail.com"},
+    {"id": 19, "name": "robot", "username": "#224", "email": "khan@gmail.com"},
+    {"id": 20, "name": "robot", "username": "#335", "email": "khan@gmail.com"}
   ],
   "profile": {
     "name": "typicode"
