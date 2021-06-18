@@ -1,7 +1,9 @@
 {
-  "users": [
-    {"id": 1, "name": "asad", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 2, "name": "usama", "username": "khan", "email": "khan@gmail.com"}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
